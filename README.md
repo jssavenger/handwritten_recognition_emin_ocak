@@ -5,5 +5,5 @@ pip install requirements.txt
 
 python main.py
 
-## Devoloper
+## Developer
 ## Emin Ocak
