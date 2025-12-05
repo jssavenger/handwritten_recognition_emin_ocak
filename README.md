@@ -1,4 +1,4 @@
-## ML Handwritten Recognition Model
+### ML Handwritten Recognition Model
 This project analyzes images of handwritten digits (0-9) using machine learning algorithms and predicts the corresponding digit.
 
 ## About the Project 
